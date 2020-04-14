@@ -46,9 +46,12 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+I、 Conference Papers (2)
+1 Kai Liu, Yun Zhou, Qingyong Wang, Xianqiang Zhu. Vulnerability Severity Prediction with Deep Neural Network. 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（IEEE）
+2 Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, Kai Liu. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
   
 Talks
 ======
