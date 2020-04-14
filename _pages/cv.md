@@ -79,9 +79,9 @@ Honors
 
 Skills
 ======
-* Language：  English,CET-6, fluent in reading, writing and speaking.
-* Programming： Python, Matlab, LaTeX, C++
-* Deep Learning： PyTorch, Tensorflow
-* Other Software： Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
-* Driving License： C1 Class
+* **Language**：  English,CET-6, fluent in reading, writing and speaking.
+* **Programming**： Python, Matlab, LaTeX, C++
+* **Deep Learning**： PyTorch, Tensorflow
+* **Other Software**： Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
+* **Driving License**： C1 Class
 
