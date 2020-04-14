@@ -22,10 +22,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * [National University of Defence Technology](https://english.nudt.edu.cn/)
+  * Science and Technology on Information Systems Engineering Laboratory
+  * Supervisor: Prof. Weiming Zhang, Prof. Cheng Zhu and Assistant Professor [Yun Zhou](https://yzhou.github.io/#opennewwindow)
 
 * Fall 2015: Research Assistant
   * Github University
