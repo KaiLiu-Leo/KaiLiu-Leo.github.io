@@ -42,19 +42,6 @@ Work experience
 * Summer 2013: Intern
   * **Dongfeng Motor Corporation**, Shiyan, China
   * Manufacturing intern engineer
-  
-Skills
-======
-* Language
-  * English,CET-6, fluent in reading, writing and speaking.
-* Programming
-  * Python, Matlab, LaTeX, C++
-* Deep Learning
-  * PyTorch, Tensorflow
-* Other Software
-  * Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
-* Driving License
-  * C1 Class
 
 <!--<ul>{% for post in site.publications %}-->
 <!--{% include archive-single-cv.html %}-->
@@ -89,3 +76,12 @@ Honors
 * 2013 **2nd Prize of 2nd National Undergraduate Engineering Training Integration Ability Competition**
 * 2012 Sichuan University 2012 Excellent Student Cadres
 * 2012 Award for Excellent Students in Rural Areas Social Practice
+
+Skills
+======
+* Language：  English,CET-6, fluent in reading, writing and speaking.
+* Programming： Python, Matlab, LaTeX, C++
+* Deep Learning： PyTorch, Tensorflow
+* Other Software： Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
+* Driving License： C1 Class
+
