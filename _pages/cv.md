@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* 2018.06-Present National University of Defense Technology
+* 2018.06-Present **National University of Defense Technology**
   * PhD of Management Science and Engineering
-* 2015.09-2018.06 Shandong University
+* 2015.09-2018.06 **Shandong University**
   * Master of Mechanical Manufacturing and Automation
-* 2010.09-2014.06 Sichuan University
+* 2010.09-2014.06 **Sichuan University**
   * Bachelor of Mechanical Design, Manufacturing and Automation
-* 2014.05-2015.04 Hejun Business School
+* 2014.05-2015.04 **Hejun Business School**
   * Commercial Leadership Program
 
 Work experience
