@@ -74,4 +74,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2012-2013 Student Academic Science and Technology Association of SCU Vice-chairman
+  * Planned and organized the 12th Challenge Cup National College Student Academic Science and Technology Competition and won 6 national awards
+  * Organized 28 teams from Sichuan University to participate in the 8th Challenge Cup National College Student Business Plan Competition and 11 teams won the first prize.
+  
+Honors
+======
+* 2017 National Scholarship
+* 2017 First-class Academic Scholarships
+* 2017 Shandong University Outstanding Student Leaders Scholarship
+* 2018 Shandong University Excellent Graduate
+* 2014 A-level Certificate for All-round Development of University Student in Sichuan Province
+* 2013 2nd Prize of 2nd National Undergraduate Engineering Training Integration Ability Competition
+* 2012 Sichuan University 2012 Excellent Student Cadres
+* 2012 Award for Excellent Students in Rural Areas Social Practice
