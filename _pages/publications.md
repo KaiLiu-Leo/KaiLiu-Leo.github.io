@@ -33,3 +33,4 @@ author_profile: true
   * [8] Kai Guo (tutor), Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking drill with S-shaped blade based on logistic curve. Patent No.: ZL 2016 2 080255.1
   * [X] Future Patents
 
+Welcome to contact me!
