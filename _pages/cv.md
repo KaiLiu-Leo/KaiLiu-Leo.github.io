@@ -23,24 +23,24 @@ Education
 Work experience
 ======
 * Summer 2018: Research Assistant
-  * [National University of Defence Technology](https://english.nudt.edu.cn/)
+  * [**National University of Defence Technology**](https://english.nudt.edu.cn/)
   * Science and Technology on Information Systems Engineering Laboratory
   * Supervisor: Prof. Weiming Zhang, Prof. Cheng Zhu and Assistant Prof. [Yun Zhou](https://yzhou.github.io/#opennewwindow)
 
 * Summer 2017: Intern for Commercial Leadership Program
-  * GE Healthcare, Jinan, China
+  * **GE Healthcare**, Jinan, China
   * Sales Intern: Introduced GE's Products(CT, MR etc.) for many newly established private hospitals.
 
 * June 2017: Intern
-  * China Aerospace Science and Industry Corporation 2nd Research Institute
+  * **China Aerospace Science and Industry Corporation 2nd Research Institute**
   * Visit the internship
 
 * Nov.-Dec. 2015: Intern
-  * Chengdu Aircraft Industrial (Group) Co., Ltd，Chengdu, China
+  * **Chengdu Aircraft Industrial (Group) Co., Ltd**，Chengdu, China
   * Manufacturing intern engineer 
 
 * Summer 2013: Intern
-  * Dongfeng Motor Corporation, Shiyan, China
+  * **Dongfeng Motor Corporation**, Shiyan, China
   * Manufacturing intern engineer
   
 Skills
