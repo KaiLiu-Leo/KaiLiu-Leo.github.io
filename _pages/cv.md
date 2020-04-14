@@ -27,19 +27,22 @@ Work experience
   * Science and Technology on Information Systems Engineering Laboratory
   * Supervisor: Prof. Weiming Zhang, Prof. Cheng Zhu and Assistant Prof. [Yun Zhou](https://yzhou.github.io/#opennewwindow)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Intern for Commercial Leadership Program
+  * GE Healthcare, Jinan, China
+  * Sales Intern: Introduced GE's Products(CT, MR etc.) for many newly established private hospitals.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language
+  * English,CET-6, fluent in reading, writing and speaking.
+* Programming
+  * Python, Matlab, LaTeX, C++
+* Deep Learning
+  * PyTorch, Tensorflow
+* Other Software
+  * Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
+* Driving License
+  * C1 Class
 
 Publications
 ======
