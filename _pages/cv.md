@@ -43,9 +43,9 @@ Skills
   * Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
 * Driving License
   * C1 Class
-<!--  <ul>{% for post in site.publications %} -->
-<!--    {% include archive-single-cv.html %} -->
-<!--  {% endfor %}</ul> -->
+<!--  <ul>{% for post in site.publications %}-->
+<!--    {% include archive-single-cv.html %}-->
+<!--  {% endfor %}</ul>-->
 
 Publications
 ======
