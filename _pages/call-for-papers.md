@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CFPs"
+title: "CFP"
 permalink: /call-for-papers/
 author_profile: true
 redirect_from:
