@@ -1,8 +1,8 @@
 ---
 title: CFPs
 layout: collection
-permalink: /callforpapers/
-collection: callforpapers
+permalink: /call-for-papers/
+collection: call-for-papers
 show_excerpts: true
 entries_layout: grid
 ---
