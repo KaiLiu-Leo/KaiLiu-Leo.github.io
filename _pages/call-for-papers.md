@@ -1,10 +1,13 @@
 ---
-title: "CFPs"
 layout: archive
+title: "CFPs"
 permalink: /call-for-papers/
 author_profile: true
-entries_layout: grid
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 ## About these conference
 
