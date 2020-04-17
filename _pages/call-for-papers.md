@@ -2,7 +2,6 @@
 title: "CFPs"
 layout: archive
 permalink: /call-for-papers/
-collection: call-for-papers
 author_profile: true
 entries_layout: grid
 ---
