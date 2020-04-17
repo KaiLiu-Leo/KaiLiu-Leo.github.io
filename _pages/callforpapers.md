@@ -7,13 +7,11 @@ show_excerpts: true
 entries_layout: grid
 ---
 
-
 ## About these conference
 
 This is a list of deadlines for conferences that I'm interested in.
 
 ---
-
 
 ## Upcoming
 
