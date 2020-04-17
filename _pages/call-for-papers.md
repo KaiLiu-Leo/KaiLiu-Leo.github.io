@@ -1,11 +1,13 @@
 ---
 title: CFPs
-layout: collection
+layout: archive
 permalink: /call-for-papers/
 collection: call-for-papers
-show_excerpts: true
+author_profile: true
 entries_layout: grid
 ---
+
+{% include base_path %}
 
 ## About these conference
 
