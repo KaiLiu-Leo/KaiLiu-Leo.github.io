@@ -7,8 +7,6 @@ author_profile: true
 entries_layout: grid
 ---
 
-{% include base_path %}
-
 ## About these conference
 
 This is a list of deadlines for conferences that I'm interested in.
