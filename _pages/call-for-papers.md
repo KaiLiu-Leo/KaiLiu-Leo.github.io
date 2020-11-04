@@ -47,6 +47,7 @@ Name | New_deadline | page | location | format | CCF/中科院分区 | 影响因
 ## About these conference
 
 This is a list of Journal that I'm interested in.
+
 [TKDE](http://dblp.uni-trier.de/db/journals/tkde/)  |   |  |  | IEEE | CCF-A | | 
 [Computers & Security](http://dblp.uni-trier.de/db/journals/compsec/) | CCF-B | Elsevier | 
 [TSLP](http://dblp.uni-trier.de/db/journals/tslp/) | CCF-B | Elsevier | 
