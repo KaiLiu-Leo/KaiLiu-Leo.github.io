@@ -26,4 +26,4 @@ News
 
 For more info
 ======
-More info about my research can be found in [My GitHub Page](https://github.com/KaiLiu-Leo) and My WeChat：lkauto
+More info about my research can be found in [My GitHub Page](https://github.com/KaiLiu-Leo) and [My WeChat]()：lkauto
