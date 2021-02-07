@@ -24,9 +24,9 @@ author_profile: true
   * [X] Future Papers
 * **III. National Invention Patents of China (4)**
   * [1] Zhaoyun Ding, **Kai Liu**, Yongqi Pan, Weiming Zhang, Yun Zhou, Songping Huang, Xianqiang Zhu. Cybersecurity knowledge extraction method and device based on one shot learning. Patent No.: ZL20202202872.0
-  * [1] Yun Zhou, Peichao Wang, Xianqiang Zhu, Baodan Sun, **Kai Liu**. A method and system for evaluating the risk of Web attack on Information System. Patent No.: CN201811472325.4
-  * [2] Kai Guo, Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking bit with S-shaped blade based on logistic curve. Patent No.: zl201610602257.3
-  * [3] Jie Sun, Zhaoju Zhu, **Kai Liu**, Kai Guo. An integrated tool for drilling, reaming and spot facer. Patent No.: zl201610224852.8
+  * [2] Yun Zhou, Peichao Wang, Xianqiang Zhu, Baodan Sun, **Kai Liu**. A method and system for evaluating the risk of Web attack on Information System. Patent No.: CN201811472325.4
+  * [3] Kai Guo, Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking bit with S-shaped blade based on logistic curve. Patent No.: zl201610602257.3
+  * [4] Jie Sun, Zhaoju Zhu, **Kai Liu**, Kai Guo. An integrated tool for drilling, reaming and spot facer. Patent No.: zl201610224852.8
 * **IV. National Utility Model Patents of China (5)**
   * [4] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of hole making integrated tool with variable spiral groove and double cone angle laminated structure. Patent No.: zl201710216075.7
   * [5] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of laminated sheet metal drilling tool with cone drill and dimple chip breaking structure. Patent No.: zl201720619845.8
