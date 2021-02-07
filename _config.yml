@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kai Liu (刘凯)"
 title_separator          : "-"
 name                     : &name "Kai Liu"
-description              : &description "The second year PH.D. candidate at NUDT"
+description              : &description "The third year PH.D. candidate at NUDT"
 url                      : https://KaiLiu-Leo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KaiLiu-Leo"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Liu / Leo"
   avatar           : "profile.png"
-  bio              : "The second year PH.D. candidate at NUDT"
+  bio              : "The third year PH.D. candidate at NUDT"
   location         : "Changsha, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
