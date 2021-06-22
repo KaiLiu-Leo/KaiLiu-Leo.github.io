@@ -24,7 +24,7 @@ News
 ======
 1. I got a National Invention Patents of China at 2021-1-15: Cybersecurity knowledge extraction method and device based on one shot learning. Patent No. is: ZL20202202872.0
 2. 2019-7-8, My paper [Vulnerability Severity Prediction with Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8802851) was accepted by the 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019.
-
+ 
 For more info
 ======
 More info about my research can be found in [My GitHub Page](https://github.com/KaiLiu-Leo) and [My WeChat]()：lkauto
