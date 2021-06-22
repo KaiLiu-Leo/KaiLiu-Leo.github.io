@@ -18,7 +18,7 @@ author_profile: true
   * [2] Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, **Kai Liu**. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
 * **II. Journal Articles (4)**
   * [3] Zhaoyun Ding, **Kai Liu**, Bin Liu, Xixi Zhu. Survey of cyber security knowledge graph[J/OL]. J. Huazhong Univ．of Sci．& Tech．(Natural Science Edition):1-13[2021-06-22].https://doi.org/10.13245/j.hust.210715. (EI)\ 
-      --丁兆云, **刘凯**, 刘斌, 朱席席.网络安全知识图谱研究综述[J/OL].华中科技大学学报(自然科学版):1-13[2021-06-22].https://doi.org/10.13245/j.hust.210715. (EI)
+    --丁兆云, **刘凯**, 刘斌, 朱席席.网络安全知识图谱研究综述[J/OL].华中科技大学学报(自然科学版):1-13[2021-06-22].https://doi.org/10.13245/j.hust.210715. (EI)
   * [4] Sivalingam Vinothkumar, Sun Jie, Yang Bin, **Liu Kai**, & Raju, Ramesh. Machining performance and tool wear analysis on cryogenic treated insert during end milling of ti-6al-4v alloy. Journal of Manufacturing Processes, 36, 188-196. (2018) (SCI, JCR Q1, IF=3.462)
   * [5] **Kai Liu**，Jianfeng Li，Jie Sun，Zhaoju Zhu，Hualin Meng. Investigation on chip morphology and properties in drilling aluminum and titanium stack with double cone drill. The International Journal of Advanced Manufacturing Technology, 1433-3015 (2017). (SCI, JCR Q2, IF=2.496)
   * [6] Zhaoju Zhu, **Kai Liu**, Jie Sun, Jianfeng Li Investigation on performance Characteristics and metallographic transformation on drilling aluminium/titanium sandwich. Journal of Sandwich Structures and Materials 0(00) 1–17 (2017) (SCI, JCR Q1, Top Journal, IF=2.933)
