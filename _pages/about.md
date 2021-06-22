@@ -22,7 +22,7 @@ Research Interests
 
 News
 ======
-1. <font color=#008000>2021-6-1</font>, My paper [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.]( ) was accepted by The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Tokyo, 14-16 August, 2021.(CCF C)
+1. $\color{red}{2021-6-1}, My paper [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.]( ) was accepted by The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Tokyo, 14-16 August, 2021.(CCF C)
 2. <font color=#008000>2021-6-1</font>, This is my New Paper online: Zhaoyun Ding, Kai Liu, Bin Liu, Xixi Zhu. [Survey of cyber security knowledge graph](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13245/j.hust.210715)[J/OL]. J. Huazhong Univ．of Sci．& Tech．(Natural Science Edition):1-13[2021-06-22].https://doi.org/10.13245/j.hust.210715. (EI) 
 3. I got a National Invention Patents of China at <font color=#008000>2021-1-15</font>: [Cybersecurity knowledge extraction method and device based on one shot learning](https://worldwide.espacenet.com/publicationDetails/originalDocument?FT=D&date=20210115&DB=&locale=en_EP&CC=CN&NR=111931935B&KC=B&ND=5). Patent No. is: ZL20202202872.0
  
