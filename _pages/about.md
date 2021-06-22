@@ -22,7 +22,7 @@ Research Interests
 
 News
 ======
-1. 2021-6-1, My paper [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.]( ) was accepted by The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021).Springer, Tokyo, 14-16 August, 2021.(CCF C)
+1. 2021-6-1, My paper [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.]( ) was accepted by The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Tokyo, 14-16 August, 2021.(CCF C)
 2. I got a National Invention Patents of China at 2021-1-15: Cybersecurity knowledge extraction method and device based on one shot learning. Patent No. is: ZL20202202872.0
  
 For more info
