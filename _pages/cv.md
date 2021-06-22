@@ -43,7 +43,7 @@ Work experience
 
 * Summer 2013: Intern
   * **Dongfeng Motor Corporation**, Shiyan, China
-  * Manufacturing intern engineer
+  * Manufacturing intern engineer 
 
 <!--<ul>{% for post in site.publications %}-->
 <!--{% include archive-single-cv.html %}-->
