@@ -14,7 +14,7 @@ author_profile: true
 
 
 * **I. Conference Papers (2)**
-  * [1] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. A Semantic Textual Similarity Calculation Model Based on Pre-training Model. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Tokyo, 14-16 August, <font color=#008000>2021</font>.(CCF C) (Has been accepted).
+  * [1] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. A Semantic Textual Similarity Calculation Model Based on Pre-training Model. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Tokyo, 14-16 August, <font color='green'>2021</font>.(CCF C) (Has been accepted).
   * [2] **Kai Liu**, Yun Zhou, Qingyong Wang, Xianqiang Zhu. Vulnerability Severity Prediction with Deep Neural Network. 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（IEEE）
   * [3] Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, **Kai Liu**. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
 * **II. Journal Articles (4)**
