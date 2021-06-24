@@ -26,7 +26,7 @@ author_profile: true
   * [8] Chun Liu, Jie Sun(Professor), **Kai Liu**, Yawen Cui, Laixiao Lu, Bin Yang. Study on Milling Performance of Titanium Alloy Thin-Walled Parts With Polyurethane Foam Reinforcement. Journal of Aeronautical Manufacturing Technology 530 (11): 93-98 (Chinese core journal)
   * [X] Future Papers
 * **III. National Invention Patents of China (4)**
-  * [1] Zhaoyun Ding, **Kai Liu**, Yongqi Pan, Weiming Zhang, Yun Zhou, etc. Cybersecurity knowledge extraction method and device based on one shot learning. <font color='green'>2021-1-15</font> Patent No.: ZL20202202872.0
+  * [1] Zhaoyun Ding, **Kai Liu**, Yongqi Pan, Weiming Zhang, Yun Zhou, etc. Cybersecurity knowledge extraction method and device based on one shot learning. <font color='green'>2021-1-15</font> Patent No.: CN111931935B
   * [2] Yun Zhou, Peichao Wang, Xianqiang Zhu, Baodan Sun, **Kai Liu**. A method and system for evaluating the risk of Web attack on Information System. Patent No.: CN201811472325.4
   * [3] Kai Guo, Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking bit with S-shaped blade based on logistic curve. Patent No.: ZL201610602257.3
   * [4] Jie Sun, Zhaoju Zhu, **Kai Liu**, Kai Guo. An integrated tool for drilling, reaming and spot facer. Patent No.: ZL201610224852.8
