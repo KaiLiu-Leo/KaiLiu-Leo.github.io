@@ -54,9 +54,16 @@ This is a list of Journal that I'm interested in.
 
 ## Some Links
 [Security Conferences Ranking.](http://jianying.space/conference-ranking.html)
+
 [CSRankings: Computer Science.](http://csrankings.org/#/index?all&us)
+
 [Security Conference Statistic.](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
+
 [Influential Security Papers.](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/)
+
 [10+ Years of Security Circus.](http://s3.eurecom.fr/~balzarot/notes/top4_v1/)
+
 [A Survival Guide to a PhD.](http://karpathy.github.io/2016/09/07/phd/)
+
 [Research Materials](https://github.com/secdr/research-method)
+
