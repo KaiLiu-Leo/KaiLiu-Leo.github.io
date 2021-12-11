@@ -33,7 +33,7 @@ Work experience
 * Summer 2018: Research Assistant
   * [**National University of Defence Technology**](https://english.nudt.edu.cn/)
   * Science and Technology on Information Systems Engineering Laboratory
-  * Supervisor: Prof. Weiming Zhang, Prof. Cheng Zhu and Assistant Prof. [Yun Zhou](https://yzhou.github.io/#opennewwindow)
+  * Supervisor: Prof. Weiming Zhang, Prof. Cheng Zhu, Assistant Prof. [Yun Zhou](https://yzhou.github.io/#opennewwindow), and Assistant Prof. Zhaoyun Ding
 
 * Summer 2017: Intern for Commercial Leadership Program
   * **GE Healthcare**, Jinan, China
