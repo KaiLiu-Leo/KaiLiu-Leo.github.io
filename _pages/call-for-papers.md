@@ -27,21 +27,21 @@ Name | New_deadline | page | location | format | CCF/中科院分区 | 影响因
 [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/) | 202  | 10 |   | Morgan Kaufmann | CCF-A | | 
 
 
-[RAID](http://dblp.uni-trier.de/db/conf/raid/) | | | | | CCF-B | |
-[CIKM](http://dblp.uni-trier.de/db/conf/cikm/) | | | | ACM | CCF-B | |
-[ECML-PKDD](http://dblp.uni-trier.de/db/conf/ecml/ http://dblp.uni-trier.de/db/conf/pkdd/)  | | | | Springer | CCF-B | |
-[ISWC](http://dblp.uni-trier.de/db/conf/semweb/)  | | | | IEEE | CCF-B | | 
-[ICDM](http://dblp.uni-trier.de/db/conf/icdm/) | | | | IEEE | CCF-B | | 
-[EMNLP](http://dblp.uni-trier.de/db/conf/emnlp/) | | | | ACL | CCF-B | | 
-[COLING](http://dblp.uni-trier.de/db/conf/coling/) | | | | ACL | CCF-B | | 
+[RAID](http://dblp.uni-trier.de/db/conf/raid/) | | | | | CCF-B | | |
+[CIKM](http://dblp.uni-trier.de/db/conf/cikm/) | | | | ACM | CCF-B | | |
+[ECML-PKDD](http://dblp.uni-trier.de/db/conf/ecml/ http://dblp.uni-trier.de/db/conf/pkdd/)  | | | | Springer | CCF-B | | |
+[ISWC](http://dblp.uni-trier.de/db/conf/semweb/)  | | | | IEEE | CCF-B | |  |
+[ICDM](http://dblp.uni-trier.de/db/conf/icdm/) | | | | IEEE | CCF-B | |  |
+[EMNLP](http://dblp.uni-trier.de/db/conf/emnlp/) | | | | ACL | CCF-B | |  |
+[COLING](http://dblp.uni-trier.de/db/conf/coling/) | | | | ACL | CCF-B | |  |
 
-[ICICS](http://dblp.uni-trier.de/db/conf/icics/)  | | | | | CCF-C | |
-[NLPCC](https://dblp.uni-trier.de/db/conf/nlpcc/) | | | | Springer | CCF-C | | 
-[CoNLL](http://dblp.uni-trier.de/db/conf/conll) | | | | ACL | CCF-C | | 
-[NAACL](http://dblp.uni-trier.de/db/conf/naacl/) | | | | NAACL | CCF-C | | 
+[ICICS](http://dblp.uni-trier.de/db/conf/icics/)  | | | | | CCF-C | | |
+[NLPCC](https://dblp.uni-trier.de/db/conf/nlpcc/) | | | | Springer | CCF-C | |  |
+[CoNLL](http://dblp.uni-trier.de/db/conf/conll) | | | | ACL | CCF-C | |  |
+[NAACL](http://dblp.uni-trier.de/db/conf/naacl/) | | | | NAACL | CCF-C | |  |
 
-[DSC 2020](https://www4.comp.polyu.edu.hk/~icdsc2020/CFP.html)| 2020-4-22 | 8- | Hong Kong | IEEE
-[AACL-IJCNLP 2020](http://aacl2020.org/) | 2020-6-26 | 4-8 | Suzhou | 2020-12-9
+[DSC 2020](https://www4.comp.polyu.edu.hk/~icdsc2020/CFP.html)| 2020-4-22 | 8- | Hong Kong | IEEE | | | |
+[AACL-IJCNLP 2020](http://aacl2020.org/) | 2020-6-26 | 4-8 | Suzhou | 2020-12-9 | | | |
 
 
 ## About these conference
