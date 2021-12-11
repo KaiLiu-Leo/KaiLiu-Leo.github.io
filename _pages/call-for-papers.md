@@ -25,8 +25,6 @@ Name | New_deadline | page | location | format | CCF/中科院分区 | 影响因
 [AAAI](http://dblp.uni-trier.de/db/conf/aaai/) | 2020-12-03  | 13+5 |   | AAAI | CCF-A | |[AAAI-2022 topics](https://aaai.org/Conferences/AAAI-22/ws22workshops/)| 
 [ACL](http://dblp.uni-trier.de/db/conf/acl/) | 202  | 10 |   | ACL | CCF-A | 
 [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/) | 202  | 10 |   | Morgan Kaufmann | CCF-A | 
-
-
 [RAID](http://dblp.uni-trier.de/db/conf/raid/) | | | | | CCF-B | | |
 [CIKM](http://dblp.uni-trier.de/db/conf/cikm/) | | | | ACM | CCF-B | | |
 [ECML-PKDD](http://dblp.uni-trier.de/db/conf/ecml/ http://dblp.uni-trier.de/db/conf/pkdd/)  | | | | Springer | CCF-B | | |
@@ -34,12 +32,10 @@ Name | New_deadline | page | location | format | CCF/中科院分区 | 影响因
 [ICDM](http://dblp.uni-trier.de/db/conf/icdm/) | | | | IEEE | CCF-B | |  |
 [EMNLP](http://dblp.uni-trier.de/db/conf/emnlp/) | | | | ACL | CCF-B | |  |
 [COLING](http://dblp.uni-trier.de/db/conf/coling/) | | | | ACL | CCF-B | |  |
-
 [ICICS](http://dblp.uni-trier.de/db/conf/icics/)  | | | | | CCF-C | | |
 [NLPCC](https://dblp.uni-trier.de/db/conf/nlpcc/) | | | | Springer | CCF-C | |  |
 [CoNLL](http://dblp.uni-trier.de/db/conf/conll) | | | | ACL | CCF-C | |  |
 [NAACL](http://dblp.uni-trier.de/db/conf/naacl/) | | | | NAACL | CCF-C | |  |
-
 [DSC 2020](https://www4.comp.polyu.edu.hk/~icdsc2020/CFP.html)| 2020-4-22 | 8- | Hong Kong | IEEE | | | |
 [AACL-IJCNLP 2020](http://aacl2020.org/) | 2020-6-26 | 4-8 | Suzhou | 2020-12-9 | | | |
 
