@@ -22,7 +22,7 @@ Name | New_deadline | page | location | format | CCF/中科院分区 | 影响因
 [USENIX Security](https://www.usenix.org/conferences/byname/108) | 2021-02-04 | 13+ | Boston | USENIX | CCF-A | | 
 [CCS](https://www.sigsac.org/ccs/CCS2020/) | 2020-01-20  | 12+ | Orlando | ACM | CCF-A | | Just accept practical papers
 [S&P](http://www.ieee-security.org/TC/SP2021/) | 2020-12-03  | 13+5 | San Francisco | IEEE | CCF-A | | 
-[AAAI](http://dblp.uni-trier.de/db/conf/aaai/) | 2020-12-03  | 13+5 |   | AAAI | CCF-A | | 
+[AAAI](http://dblp.uni-trier.de/db/conf/aaai/) | 2020-12-03  | 13+5 |   | AAAI | CCF-A | [AAAI-2022 topics](https://aaai.org/Conferences/AAAI-22/ws22workshops/)| 
 [ACL](http://dblp.uni-trier.de/db/conf/acl/) | 202  | 10 |   | ACL | CCF-A | | 
 [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/) | 202  | 10 |   | Morgan Kaufmann | CCF-A | | 
 
