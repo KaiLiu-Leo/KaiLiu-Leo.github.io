@@ -29,7 +29,7 @@ Work experience
   * Expert Group on Information Security
   * Supervisor: Wang Zhimin
   * Compile network security books and industry white paper.
-  * 
+  
 * Summer 2018: Research Assistant
   * [**National University of Defence Technology**](https://english.nudt.edu.cn/)
   * Science and Technology on Information Systems Engineering Laboratory
