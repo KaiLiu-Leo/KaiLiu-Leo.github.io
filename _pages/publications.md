@@ -14,7 +14,7 @@ author_profile: true
 
 
 * **I. Conference Papers (3)**
-  * [1]Liu K, Wang F, Ding Z, et al. [A review of knowledge graph application scenarios in cyber security](https://arxiv.org/abs/2204.04769)[J]. arXiv preprint arXiv:2204.04769, <font color='green'>2022</font>.
+  * [1]Liu K, Wang F, Ding Z, et al. [A review of knowledge graph application scenarios in cyber security](https://arxiv.org/abs/2204.04769)[J]. arXiv preprint arXiv:2204.04769, <font color='green'>2022</font>. [preprint version of CCF NCCA 2022]
   * [2] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1) The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, <font color='green'>2021</font>: 3-15. (EI, CCF C).
   * [3] **Kai Liu**, Yun Zhou, Qingyong Wang, Xianqiang Zhu. [Vulnerability Severity Prediction with Deep Neural Network.](https://doi.org/10.1109/BigDIA.2019.8802851) The 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（EI, IEEE）
   * [4] Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, **Kai Liu**. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
