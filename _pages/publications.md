@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-* **I. Conference Papers (3)**
+* **I. Conference Papers (5)**
   * [1]**Liu K**, Wang F, Ding Z, et al. [A review of knowledge graph application scenarios in cyber security](https://arxiv.org/abs/2204.04769)[J]. arXiv preprint arXiv:2204.04769, <font color='green'>2022</font>. [Accepted by CCF NCCA 2022.]
   * [2] Zhaoyun Ding, Lina Liu, Donghua Yu, Songping Huang, Hang Zhang, **Kai Liu**. [Detection of Anomaly User Behaviors Based on Deep Neural Networks](https://ieeexplore.ieee.org/document/9724456)[C]. 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2021: 1240-1245.(EI, CCF C)
   * [3] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1) The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, <font color='green'>2021</font>: 3-15. (EI, CCF C).
