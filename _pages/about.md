@@ -19,10 +19,11 @@ Research Interests
 <br/>(3) Users’ Behavior Analysis in Cyberspace
 <br/>(4) Deep Transfer Learning
 <br/>(5) Few-shot Learning in NLP.
+<br/>(6) Causal Inference.
 
 News
 ======
-1. <font color='green'>2022-4-1</font>, Liu K, Wang F, Ding Z, et al. [A review of knowledge graph application scenarios in cyber security](https://arxiv.org/abs/2204.04769)[J]. arXiv preprint arXiv:2204.04769, <font color='green'>2022</font>.(Accepted by CCF NCCA 2022)
+1. <font color='green'>2022-4-1</font>, Liu K, Wang F, Ding Z, et al. [A review of knowledge graph application scenarios in cyber security](https://arxiv.org/abs/2204.04769)[J]. arXiv preprint arXiv:2204.04769, <font color='green'>2022</font>.(Accepted by CCF NCCA 2022, And accepted in Electronics (ISSN 2079-9292) on 19 July 2022)
 2. <font color='green'>2021-10-20</font>, This is my new paper: Zhaoyun Ding, Lina Liu, Donghua Yu, Songping Huang, Hang Zhang, **Kai Liu**. [Detection of Anomaly User Behaviors Based on Deep Neural Networks](https://ieeexplore.ieee.org/document/9724456)[C]. 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2021: 1240-1245.(EI, CCF C)
 3. <font color='green'>2021-6-1</font>, This is my new paper: Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1)[C]. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, 2021: 3-15.(EI, CCF C)
 4. <font color='green'>2021-6-1</font>, This is my New Paper online: Zhaoyun Ding, **Kai Liu**, Bin Liu, Xixi Zhu. [Survey of cyber security knowledge graph](http://adm.hustxb.com/paper/download?uuid=4c8965ca370334e8b003afb2f07c18b2)[J]. J. Huazhong Univ．of Sci．& Tech．(Natural Science Edition).49(07):79-91.[2021-07]. (EI) 
