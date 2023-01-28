@@ -29,7 +29,7 @@ News
 4. <font color='green'>2021-6-1</font>, This is my new paper: Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1)[C]. The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, 2021: 3-15.(EI, CCF C)
 5. <font color='green'>2021-6-1</font>, This is my New Paper online: Zhaoyun Ding, **Kai Liu**, Bin Liu, Xixi Zhu. [Survey of cyber security knowledge graph](http://adm.hustxb.com/paper/download?uuid=4c8965ca370334e8b003afb2f07c18b2)[J]. J. Huazhong Univ．of Sci．& Tech．(Natural Science Edition).49(07):79-91.[2021-07]. (EI)
 6. I got a National Invention Patents of China at <font color='green'>2021-1-15</font>: Zhaoyun Ding, **Kai Liu**, Yongqi Pan, Weiming Zhang, Yun Zhou, etc. [Cybersecurity knowledge extraction method and device based on one shot learning](https://worldwide.espacenet.com/publicationDetails/originalDocument?FT=D&date=20210115&DB=&locale=en_EP&CC=CN&NR=111931935B&KC=B&ND=5). Patent No.: ZL20202202872.0
-
+ 
 For more info
 ======
 More info about my research can be found in [My GitHub Page](https://github.com/KaiLiu-Leo) and [My WeChat]()：lkauto
