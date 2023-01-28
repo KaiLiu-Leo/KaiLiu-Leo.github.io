@@ -13,11 +13,12 @@ author_profile: true
 
 
 
-* **I. Conference Papers (4)**
-  * [1] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1) The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, <font color='green'>2021</font>: 3-15. (EI, CCF C).
-  * [2] Ding Z, Liu L, Yu D, Huang S, Zhang H, **Liu K**. [Detection of Anomaly User Behaviors Based on Deep Neural Networks](https://ieeexplore.ieee.org/document/9724456)[C]. 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, <font color='green'>2021</font>: 1240-1245.(EI, CCF C)
-  * [3] **Kai Liu**, Yun Zhou, Qingyong Wang, Xianqiang Zhu. [Vulnerability Severity Prediction with Deep Neural Network.](https://doi.org/10.1109/BigDIA.2019.8802851) The 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（EI, IEEE）
-  * [4] Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, **Kai Liu**. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
+* **I. Conference Papers (5)**
+  * [1] Wang Fei, **Liu Kai**, Ding Zhaoyun, Liu Bin, Zhao Yu, et al. [Ontology-Based APT Attack Detection and Defense Countermeasures](https://ieeexplore.ieee.org/document/9991678)[C]//2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS). IEEE, <font color='green'>2022</font>: 27-33. (EI, IEEE, CCF C)
+  * [2] Zhaoyun Ding, **Kai Liu**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1) The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, <font color='green'>2021</font>: 3-15. (EI, CCF C).
+  * [3] Ding Z, Liu L, Yu D, Huang S, Zhang H, **Liu K**. [Detection of Anomaly User Behaviors Based on Deep Neural Networks](https://ieeexplore.ieee.org/document/9724456)[C]. 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, <font color='green'>2021</font>: 1240-1245.(EI, CCF C)
+  * [4] **Kai Liu**, Yun Zhou, Qingyong Wang, Xianqiang Zhu. [Vulnerability Severity Prediction with Deep Neural Network.](https://doi.org/10.1109/BigDIA.2019.8802851) The 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（EI, IEEE）
+  * [5] Zhaoju Zhu, Shaochun Sui, Jie Sun, Jianfeng Li, **Kai Liu**. Investigation on drilling performance of titanium alloy Ti6Al4V based on response surface method. Proceedings of the ASME 2017 12th International Manufacturing Science and Engineering Conference MSEC2017, June 4-8, 2017, Los Angeles, CA, USA.
 
 * **II. Journal Articles (6)**
   * [5] **Liu K**, Wang F, Ding Z, Liang S, Yu Z, Zhou Y. [Recent Progress of Using Knowledge Graph for Cybersecurity](https://www.mdpi.com/2079-9292/11/15/2287). Electronics. <font color='green'>2022</font>; 11(15):2287. https://doi.org/10.3390/electronics11152287. (SCIE, IF 2.690, Q2, also accepted by CCF NCCA 2022)
