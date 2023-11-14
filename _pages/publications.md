@@ -30,12 +30,13 @@ author_profile: true
   * [12] Zhaoju Zhu, **Kai Liu**, Jie Sun, Jianfeng Li Investigation on performance Characteristics and metallographic transformation on drilling aluminium/titanium sandwich. Journal of Sandwich Structures and Materials 0(00) 1–17 (2017) (SCI, JCR Q1, Top Journal, IF=2.933)
   * [13] Chun Liu, Jie Sun(Professor), **Kai Liu**, Yawen Cui, Laixiao Lu, Bin Yang. Study on Milling Performance of Titanium Alloy Thin-Walled Parts With Polyurethane Foam Reinforcement. Journal of Aeronautical Manufacturing Technology 530 (11): 93-98 (Chinese core journal)
   * [X] Future Papers
-* **III. National Invention Patents of China (5)**
+* **III. National Invention Patents of China (6)**
   * [1] Zhaoyun Ding (tutor), **<font color='red'>Kai Liu</font>**, Yongqi Pan, Weiming Zhang, Yun Zhou, etc. Cybersecurity knowledge extraction method and device based on one shot learning. <font color='green'>2021-1-15</font> Patent No.: CN111931935B
   * [2] Zhaoyun Ding (tutor), Songping Huang, Weike Liu, **Kai Liu**, etc. Cyberspace threat knowledge extraction method and device. 2020-08-28, No.: CN111597353A
   * [3] Yun Zhou, Peichao Wang, Xianqiang Zhu, Baodan Sun, **Kai Liu**. A method and system for evaluating the risk of Web attack on Information System. Patent No.: CN201811472325.4
   * [4] Kai Guo, Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking bit with S-shaped blade based on logistic curve. Patent No.: ZL201610602257.3
   * [5] Jie Sun, Zhaoju Zhu, **Kai Liu**, Kai Guo. An integrated tool for drilling, reaming and spot facer. Patent No.: ZL201610224852.8
+  * [6] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of laminated sheet metal drilling tool with cone drill and dimple chip breaking structure. Patent No.: ZL 2017 1 0405223.X
 * **IV. National Utility Model Patents of China (5)**
   * [5] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of hole making integrated tool with variable spiral groove and double cone angle laminated structure. Patent No.: zl201710216075.7
   * [6] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of laminated sheet metal drilling tool with cone drill and dimple chip breaking structure. Patent No.: zl201720619845.8
