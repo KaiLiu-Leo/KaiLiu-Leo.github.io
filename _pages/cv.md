@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2021.06-2023.06 **Ludwig-Maximilian University Munich**
-  * Visiting doctoral researcher of Information Science
 * 2018.06-Present **National University of Defense Technology**
   * PhD of Management Science and Engineering
+* 2021.06-2023.06 **Ludwig-Maximilian University Munich**
+  * Visiting doctoral researcher of Information Science
 * 2015.09-2018.06 **Shandong University**
   * Master of Mechanical Manufacturing and Automation
 * 2010.09-2014.06 **Sichuan University**
