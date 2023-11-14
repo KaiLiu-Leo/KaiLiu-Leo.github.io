@@ -76,9 +76,9 @@ Service and leadership
   
 Honors
 ======
-* 
-* 
-* 
+* 2021 The **Chinese Government Scholarship** from the China Scholarship Council (CSC)
+* 2020 First Class Scholarship at National University of Defense Science and Technology
+* 2019 Freshman Scholarship at National University of Defense Technology
 * 2017 **National Scholarship**
 * 2017 First-class Academic Scholarships
 * 2017 Shandong University Outstanding Student Leaders Scholarship
