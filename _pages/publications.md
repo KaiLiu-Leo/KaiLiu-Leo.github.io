@@ -37,7 +37,7 @@ author_profile: true
   * [4] Kai Guo, Zhaoju Zhu, Jie Sun, **Kai Liu**. Chip breaking bit with S-shaped blade based on logistic curve. Patent No.: ZL201610602257.3
   * [5] Jie Sun, Zhaoju Zhu, **Kai Liu**, Kai Guo. An integrated tool for drilling, reaming and spot facer. Patent No.: ZL201610224852.8
   * [6] Jie Sun (tutor), **<font color='red'>Kai Liu</font>**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of laminated sheet metal drilling tool with cone drill and dimple chip breaking structure. Patent No.: ZL 201710405223.X
-  * 
+  * [X] Future Patents
 * **IV. National Utility Model Patents of China (5)**
   * [1] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of hole making integrated tool with variable spiral groove and double cone angle laminated structure. Patent No.: zl201710216075.7
   * [2] Jie Sun (tutor), **Kai Liu**, Jianfeng Li, Zhaoju Zhu, Hualin Meng, Wanjun Kang. A kind of laminated sheet metal drilling tool with cone drill and dimple chip breaking structure. Patent No.: zl201720619845.8
