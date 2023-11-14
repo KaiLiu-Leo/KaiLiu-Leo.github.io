@@ -95,3 +95,4 @@ Skills
 * **Deep Learning**： PyTorch, Tensorflow
 * **Other Software**： Master Office Software, Origin, AutoCAD, Pro/E, Solidworks, AdvantEdge, Abaqus.
 * **Driving License**： C1 Class
+* **More**： XXX
