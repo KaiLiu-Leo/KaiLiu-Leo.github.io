@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * 2018.06-Present **National University of Defense Technology**
-  * PhD of Management Science and Engineering
+  * PhD of Management Science and Engineering (A+)
 * 2021.06-2023.06 **Ludwig-Maximilian University Munich**
-  * Visiting doctoral researcher of Information Science
+  * Visiting doctoral researcher of Information Science (Top 55)
 * 2015.09-2018.06 **Shandong University**
-  * Master of Mechanical Manufacturing and Automation
+  * Master of Mechanical Manufacturing and Automation (A-)
 * 2010.09-2014.06 **Sichuan University**
-  * Bachelor of Mechanical Design, Manufacturing and Automation
+  * Bachelor of Mechanical Design, Manufacturing and Automation (B+)
 * 2014.05-2015.04 **Hejun Business School**
   * Commercial Leadership Program
 
