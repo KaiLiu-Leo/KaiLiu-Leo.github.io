@@ -20,6 +20,7 @@ Research Interests
 <br/>(4) Deep Transfer Learning
 <br/>(5) Few-shot Learning in NLP.
 <br/>(6) Causal Inference.
+<br/>(7) Information Extraction based on Large Language Model.
 
 News
 ======
