@@ -33,6 +33,7 @@ author_profile: true
   * [15] Zhaoju Zhu, **Kai Liu**, Jie Sun, Jianfeng Li Investigation on performance Characteristics and metallographic transformation on drilling aluminium/titanium sandwich. Journal of Sandwich Structures and Materials 0(00) 1–17 (2017) (SCI, JCR-Q1, Top Journal, IF=2.933)
   * [16] Chun Liu, Jie Sun(Professor), **Kai Liu**, Yawen Cui, Laixiao Lu, Bin Yang. Study on Milling Performance of Titanium Alloy Thin-Walled Parts With Polyurethane Foam Reinforcement. Journal of Aeronautical Manufacturing Technology 530 (11): 93-98 (Chinese core journal)
   * [X] Future Papers
+
 * **III. National Invention Patents of China (6)**
   * [1] Zhaoyun Ding (tutor), **<font color='red'>Kai Liu</font>**, Yongqi Pan, Weiming Zhang, Yun Zhou, etc. Cybersecurity knowledge extraction method and device based on one shot learning. <font color='green'>2021-1-15</font> Patent No.: CN111931935B
   * [2] Zhaoyun Ding (tutor), Songping Huang, Weike Liu, **Kai Liu**, etc. Cyberspace threat knowledge extraction method and device. 2020-08-28, No.: CN111597353A
