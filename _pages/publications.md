@@ -13,8 +13,9 @@ author_profile: true
 
 
 
-* **I. Conference Papers (5)**
+* **I. Conference Papers (6)**
   * [1] Wang Fei, **Liu Kai**, Ding Zhaoyun, Liu Bin, Zhao Yu. [Ontology-Based APT Attack Detection and Defense Countermeasures](https://ieeexplore.ieee.org/document/9991678)[C]//2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS). IEEE, <font color='green'>2022</font>: 27-33. (EI, IEEE, CCF C)
+  * [1] Xin L, Liu K, Ding Z. Research on One-Class Few-Shot Text Classification Method Based on Entailment[C]//International Conference on Cyberspace Simulation and Evaluation. Singapore: Springer Nature Singapore, 2024: 248-257.
   * [2] Zhaoyun Ding, **<font color='red'> Kai Liu </font>**, Wenhao Wang, and Bin Liu. [A Semantic Textual Similarity Calculation Model Based on Pre-training Model.](https://doi.org/10.1007/978-3-030-82147-0_1) The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021). Springer, Cham, <font color='green'>2021</font>: 3-15. (EI, CCF C, 通讯作者).
   * [3] Ding Z, Liu L, Yu D, Huang S, Zhang H, **Liu K**. [Detection of Anomaly User Behaviors Based on Deep Neural Networks](https://ieeexplore.ieee.org/document/9724456)[C]. 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, <font color='green'>2021</font>: 1240-1245.(EI, CCF C)
   * [4] **<font color='red'> Kai Liu </font>**, Yun Zhou, Qingyong Wang, Xianqiang Zhu. [Vulnerability Severity Prediction with Deep Neural Network.](https://doi.org/10.1109/BigDIA.2019.8802851) The 5th International Conference on Big Data and Information Analytics (BigDIA).IEEE, 2019: 114-119. Kunming, China, 8-10 July 2019.（EI, IEEE）
