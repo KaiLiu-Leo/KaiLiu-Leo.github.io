@@ -13,7 +13,7 @@ Education
 ======
 * 2018.06-2025.12 **National University of Defense Technology**
   * PhD of Management Science and Engineering (A+)
-* 2021.06-2023.06 **Ludwig-Maximilian University Munich**
+* 2021.06-2023.06 **Ludwig-Maximilian University Munich (LMU)**
   * Visiting doctoral researcher of Information Science (Top 55)
 * 2015.09-2018.06 **Shandong University**
   * Master of Mechanical Manufacturing and Automation (A-)
