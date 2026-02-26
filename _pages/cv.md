@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2018.06-Present **National University of Defense Technology**
+* 2018.06-2025.12 **National University of Defense Technology**
   * PhD of Management Science and Engineering (A+)
 * 2021.06-2023.06 **Ludwig-Maximilian University Munich**
   * Visiting doctoral researcher of Information Science (Top 55)
